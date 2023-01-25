@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://abhinav1229.github.io/csb-rswqsw/static/css/main.1f2a9174.chunk.css",
+    "main.js": "https://abhinav1229.github.io/csb-rswqsw/static/js/main.82d2e98b.chunk.js",
+    "main.js.map": "https://abhinav1229.github.io/csb-rswqsw/static/js/main.82d2e98b.chunk.js.map",
+    "runtime-main.js": "https://abhinav1229.github.io/csb-rswqsw/static/js/runtime-main.83984182.js",
+    "runtime-main.js.map": "https://abhinav1229.github.io/csb-rswqsw/static/js/runtime-main.83984182.js.map",
+    "static/js/2.e0075b22.chunk.js": "https://abhinav1229.github.io/csb-rswqsw/static/js/2.e0075b22.chunk.js",
+    "static/js/2.e0075b22.chunk.js.map": "https://abhinav1229.github.io/csb-rswqsw/static/js/2.e0075b22.chunk.js.map",
+    "index.html": "https://abhinav1229.github.io/csb-rswqsw/index.html",
+    "static/css/main.1f2a9174.chunk.css.map": "https://abhinav1229.github.io/csb-rswqsw/static/css/main.1f2a9174.chunk.css.map",
+    "static/js/2.e0075b22.chunk.js.LICENSE.txt": "https://abhinav1229.github.io/csb-rswqsw/static/js/2.e0075b22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83984182.js",
+    "static/js/2.e0075b22.chunk.js",
+    "static/css/main.1f2a9174.chunk.css",
+    "static/js/main.82d2e98b.chunk.js"
+  ]
+}
